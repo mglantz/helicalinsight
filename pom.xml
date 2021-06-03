@@ -62,7 +62,7 @@
         <log4j.version>1.2.17</log4j.version>
         <org.slf4j-version>1.7.21</org.slf4j-version>
 
-        <java7.hikaricp.version>2.4.7-hi</java7.hikaricp.version>
+        <java7.hikaricp.version>2.7.9</java7.hikaricp.version>
         <tomcat.jdbc.version>7.0.65</tomcat.jdbc.version>
 
         <maven-compiler-plugin.version>3.6.1</maven-compiler-plugin.version>
