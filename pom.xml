@@ -86,7 +86,7 @@
         <rhino.version>1.7.7.1</rhino.version>
 
         <calcite.version>1.11.0</calcite.version>
-        <mongo.java.driver>3.4.1</mongo.java.driver>
+        <mongo.java.driver>3.12.8</mongo.java.driver>
 
         <groovy.version>2.4.7</groovy.version>
         <cas.client.version>3.3.3</cas.client.version>
