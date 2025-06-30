@@ -85,11 +85,11 @@
         <intellij.checker.version>12.0</intellij.checker.version>
         <rhino.version>1.7.7.1</rhino.version>
 
-        <calcite.version>1.11.0</calcite.version>
+        <calcite.version>1.37.0</calcite.version>
         <mongo.java.driver>3.4.1</mongo.java.driver>
 
         <groovy.version>2.4.7</groovy.version>
-        <cas.client.version>3.3.3</cas.client.version>
+        <cas.client.version>3.4.0</cas.client.version>
         <cas.server.ldap>4.0.1</cas.server.ldap>
 
         <opennlp.version>1.6.0</opennlp.version>
