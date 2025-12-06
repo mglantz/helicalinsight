@@ -83,7 +83,7 @@
         <opencsv.version>2.3</opencsv.version>
         <xom.version>1.2.5</xom.version>
         <intellij.checker.version>12.0</intellij.checker.version>
-        <rhino.version>1.7.7.1</rhino.version>
+        <rhino.version>1.7.14.1</rhino.version>
 
         <calcite.version>1.11.0</calcite.version>
         <mongo.java.driver>3.4.1</mongo.java.driver>
